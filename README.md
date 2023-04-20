@@ -1,6 +1,6 @@
 This is my code for classification with MNIST data
 
-+ dataset(mnist) is available in link: https://drive.google.com/drive/u/0/folders/113e-7OW1r2rCnDZx-ma23yR13K3spamT - Please download MNIST into project
++ dataset(mnist) is available in link: https://drive.google.com/drive/u/0/folders/113e-7OW1r2rCnDZx-ma23yR13K3spamT - Please download folder MNIST into project
 + file train_eval.py for training loop and evaluate accuracy
 + file predict.py for predicting your image 
 + folder 'utils' contain some neccessary function like loss function, optimizer, load_data function, class dataset, plot_dataset_function, open_function...
