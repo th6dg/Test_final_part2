@@ -15,8 +15,7 @@ How to train your custom data?
 + second, change path to dataset in line 9,10,23,24 folder dataset.py
 + may be you should modified the class Dataset
 
-The accuracy:
-image.png
+The accuracy: accuracy.png
 
 
 HOW YOU ENJOY IT!
